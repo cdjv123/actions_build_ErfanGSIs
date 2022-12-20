@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://dl2.smartisan.cn/ota/M1/surabaya/6.1.2/20181017/6.1.2-201810161452-user-sur-ecd48a96b9.zip
+  ROM_URL:  http://dl2.smartisan.cn/ota/M1/surabaya/6.1.2/20181017/6.1.2-201810161452-user-sur-ecd48a96b9.zip
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
